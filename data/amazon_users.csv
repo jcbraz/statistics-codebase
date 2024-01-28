@@ -1,9 +1,9 @@
 Id,Age,Origin,Occupation,Hobbies,Yearly Income,Money Management,Product Discovery,Platform Visit Frequency,Preferred Device,Monthly Spending,Conversion Rate,Priority Factor,Essential Goods,Luxury Goods,House Products,Technology Products,Clothing Products,Offers,Avoid Going Outside,Price Comparison,Product Reviews,Amazon Prime Subscription,Amazon Prime Worth Factor,Amazon Prime Reliability
-0,18-30,South America,Student,Tech/Gaming,0,9,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,0-25€,9.0,Price,2.0,2.0,6.0,9.0,8.0,7.0,4.0,6.0,7.0,Yes,Discounts,9.0
+0,18-30,South America,Student,Tech/Gaming,None,9,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,0-25€,9.0,Price,2.0,2.0,6.0,9.0,8.0,7.0,4.0,6.0,7.0,Yes,Discounts,9.0
 1,18-30,Europe,Student,Beauty/Fashion,0-19k,8,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,9.0,Quality,2.0,0.0,9.0,9.0,5.0,7.0,9.0,0.0,7.0,Yes,Free shipping,9.0
-2,18-30,Europe,Student,Art/Culture,0,3,Directly from the Amazon's platform (search tool),Weekly,Phone,50€-100€,5.0,Quality,9.0,3.0,10.0,9.0,7.0,9.0,10.0,10.0,10.0,Yes,Prime Video,10.0
-3,18-30,Europe,Student,Art/Culture,0,4,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,2.0,Price,1.0,3.0,6.0,8.0,4.0,8.0,2.0,3.0,7.0,Yes,Prime Video,9.0
-4,18-30,Asia,Other,Beauty/Fashion,0,5,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,Phone,0-25€,2.0,Quality and necessity/how much I like it. If I would be pay 100 for it there no need to get it for any price.,0.0,0.0,5.0,0.0,1.0,1.0,0.0,5.0,5.0,No,,9.0
+2,18-30,Europe,Student,Art/Culture,None,3,Directly from the Amazon's platform (search tool),Weekly,Phone,50€-100€,5.0,Quality,9.0,3.0,10.0,9.0,7.0,9.0,10.0,10.0,10.0,Yes,Prime Video,10.0
+3,18-30,Europe,Student,Art/Culture,None,4,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,2.0,Price,1.0,3.0,6.0,8.0,4.0,8.0,2.0,3.0,7.0,Yes,Prime Video,9.0
+4,18-30,Asia,Other,Beauty/Fashion,None,5,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,Phone,0-25€,2.0,Quality and necessity/how much I like it. If I would be pay 100 for it there no need to get it for any price.,0.0,0.0,5.0,0.0,1.0,1.0,0.0,5.0,5.0,No,,9.0
 5,18-30,Europe,Student,Sports,20k-39k,7,Directly from the Amazon's platform (search tool),Monthly,Phone,50€-100€,5.0,Price,2.0,3.0,8.0,7.0,2.0,8.0,3.0,8.0,7.0,No,,9.0
 6,18-30,South America,Student,Art/Culture,40k-79k,10,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,25-50€,1.0,Quality,0.0,3.0,10.0,10.0,0.0,10.0,3.0,10.0,10.0,No,,7.0
 7,18-30,Europe,Student,Sports,0-19k,8,Directly from the Amazon's platform (search tool),Monthly,Phone,25-50€,2.0,Price,0.0,5.0,0.0,5.0,0.0,0.0,10.0,5.0,10.0,No,,10.0
@@ -16,11 +16,11 @@ Id,Age,Origin,Occupation,Hobbies,Yearly Income,Money Management,Product Discover
 14,18-30,Europe,Worker,Art/Culture,0-19k,6,Directly from the Amazon's platform (search tool),Monthly,Phone,25-50€,9.0,Price,0.0,0.0,0.0,5.0,0.0,3.0,8.0,7.0,8.0,No,,8.0
 15,18-30,Europe,Student,Beauty/Fashion,0-19k,5,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,4.0,Price,0.0,0.0,4.0,4.0,0.0,5.0,7.0,5.0,6.0,Yes,Prime Video,7.0
 16,18-30,Europe,Entrepreneur,Sports,0-19k,6,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,25-50€,8.0,Quality,0.0,4.0,2.0,6.0,4.0,4.0,8.0,5.0,4.0,Yes,Free shipping,10.0
-17,18-30,Europe,Student,Tech/Gaming,0,6,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,6.0,Discount,3.0,4.0,7.0,9.0,7.0,8.0,10.0,8.0,10.0,Yes,Free shipping,8.0
+17,18-30,Europe,Student,Tech/Gaming,None,6,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,6.0,Discount,3.0,4.0,7.0,9.0,7.0,8.0,10.0,8.0,10.0,Yes,Free shipping,8.0
 18,18-30,Europe,Worker,Sports,0-19k,7,Directly from the Amazon's platform (search tool),Monthly,Phone,0-25€,5.0,Price,0.0,0.0,8.0,0.0,2.0,5.0,0.0,10.0,10.0,Yes,Prime Video,8.0
-19,18-30,Europe,Student,Sports,0,7,By searching the product on a browser which redirects me to Amazon's website,Weekly,Tablet/iPad,25-50€,3.0,Quality,2.0,2.0,4.0,6.0,3.0,6.0,6.0,7.0,3.0,No,,9.0
+19,18-30,Europe,Student,Sports,None,7,By searching the product on a browser which redirects me to Amazon's website,Weekly,Tablet/iPad,25-50€,3.0,Quality,2.0,2.0,4.0,6.0,3.0,6.0,6.0,7.0,3.0,No,,9.0
 20,18-30,Europe,Worker,Sports,20k-39k,7,From social media platforms,Monthly,Phone,0-25€,3.0,Quality,0.0,0.0,7.0,6.0,0.0,0.0,9.0,8.0,8.0,Yes,Free shipping,6.0
-21,18-30,Europe,Student,Art/Culture,0,8,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,50€-100€,6.0,Quality,4.0,3.0,8.0,8.0,5.0,8.0,9.0,8.0,7.0,Yes,Prime Video,8.0
+21,18-30,Europe,Student,Art/Culture,None,8,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,50€-100€,6.0,Quality,4.0,3.0,8.0,8.0,5.0,8.0,9.0,8.0,7.0,Yes,Prime Video,8.0
 22,18-30,Europe,Worker,Sports,20k-39k,7,Directly from the Amazon's platform (search tool),Weekly,Phone,50€-100€,3.0,Price,7.0,7.0,7.0,9.0,9.0,7.0,10.0,10.0,10.0,Yes,Free shipping,9.0
 23,18-30,Europe,Worker,Sports,20k-39k,8,Directly from the Amazon's platform (search tool),Monthly,Phone,0-25€,5.0,Price,0.0,0.0,8.0,8.0,0.0,0.0,0.0,8.0,0.0,Yes,Free shipping,8.0
 24,18-30,Europe,Worker,Sports,20k-39k,7,From social media platforms,Monthly,Phone,25-50€,7.0,Quality,9.0,6.0,6.0,8.0,7.0,7.0,7.0,8.0,7.0,Yes,Gaming,8.0
@@ -30,29 +30,29 @@ Id,Age,Origin,Occupation,Hobbies,Yearly Income,Money Management,Product Discover
 28,18-30,Europe,Worker,Sports,20k-39k,8,Directly from the Amazon's platform (search tool),Hardly Ever,PC/Notebook,0-25€,8.0,Price,0.0,0.0,6.0,4.0,2.0,6.0,6.0,10.0,10.0,Yes,Free shipping,8.0
 29,18-30,Europe,Worker,Travelling ,0-19k,10,Directly from the Amazon's platform (search tool),Monthly,Phone,25-50€,5.0,Time of delivery ,0.0,0.0,10.0,5.0,10.0,10.0,10.0,10.0,10.0,No,,10.0
 31,18-30,North America,Student,Beauty/Fashion,0-19k,8,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,7.0,Price,6.0,6.0,9.0,6.0,5.0,0.0,9.0,7.0,9.0,Yes,Free shipping,9.0
-32,18-30,Europe,Unemployed,Sports,0,6,From social media platforms,Monthly,Phone,0-25€,1.0,Discount,2.0,2.0,5.0,9.0,6.0,8.0,5.0,8.0,6.0,No,,8.0
+32,18-30,Europe,Unemployed,Sports,None,6,From social media platforms,Monthly,Phone,0-25€,1.0,Discount,2.0,2.0,5.0,9.0,6.0,8.0,5.0,8.0,6.0,No,,8.0
 34,18-30,Europe,Student,Art/Culture,0-19k,7,By searching the product on a browser which redirects me to Amazon's website,Monthly,PC/Notebook,0-25€,1.0,Quality,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,No,,9.0
-35,18-30,Europe,Student,Art/Culture,0,8,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,6.0,Discount,7.0,6.0,6.0,7.0,6.0,5.0,8.0,8.0,8.0,No,,9.0
+35,18-30,Europe,Student,Art/Culture,None,8,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,6.0,Discount,7.0,6.0,6.0,7.0,6.0,5.0,8.0,8.0,8.0,No,,9.0
 37,18-30,Europe,Worker,Tech/Gaming,0-19k,7,Directly from the Amazon's platform (search tool),Daily,Phone,50€-100€,7.0,Discount,0.0,9.0,9.0,10.0,7.0,8.0,10.0,6.0,8.0,Yes,Prime Video,9.0
-38,18-30,Europe,Student,Sports,0,8,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,2.0,Price,1.0,1.0,8.0,9.0,5.0,4.0,2.0,6.0,7.0,Yes,Free shipping,8.0
+38,18-30,Europe,Student,Sports,None,8,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,2.0,Price,1.0,1.0,8.0,9.0,5.0,4.0,2.0,6.0,7.0,Yes,Free shipping,8.0
 39,18-30,Europe,Student,Tech/Gaming,0-19k,7,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,4.0,Price,0.0,4.0,9.0,10.0,2.0,10.0,7.0,10.0,9.0,No,,9.0
 40,18-30,Europe,Student,Art/Culture,0-19k,8,Directly from the Amazon's platform (search tool),Daily,Phone,25-50€,5.0,Quality,0.0,0.0,7.0,7.0,4.0,5.0,5.0,6.0,6.0,Yes,Free shipping,10.0
-41,18-30,Europe,Student,Sports,0,5,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,25-50€,2.0,Quality,0.0,0.0,8.0,10.0,0.0,6.0,7.0,0.0,4.0,Yes,Free shipping,10.0
-43,18-30,Europe,Student,Sports,0,8,By searching the product on a browser which redirects me to Amazon's website,Monthly,Book,0-25€,8.0,Quality,0.0,0.0,0.0,7.0,7.0,5.0,0.0,7.0,9.0,No,,5.0
+41,18-30,Europe,Student,Sports,None,5,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,25-50€,2.0,Quality,0.0,0.0,8.0,10.0,0.0,6.0,7.0,0.0,4.0,Yes,Free shipping,10.0
+43,18-30,Europe,Student,Sports,None,8,By searching the product on a browser which redirects me to Amazon's website,Monthly,Book,0-25€,8.0,Quality,0.0,0.0,0.0,7.0,7.0,5.0,0.0,7.0,9.0,No,,5.0
 46,31-50,South America,Worker,Art/Culture,20k-39k,8,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,PC/Notebook,25-50€,3.0,Price,0.0,0.0,7.0,7.0,0.0,5.0,7.0,10.0,7.0,No,,7.0
-47,18-30,Europe,Student,Art/Culture,0,3,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,5.0,Quality,2.0,0.0,3.0,0.0,0.0,0.0,8.0,9.0,0.0,Yes,Free shipping,7.0
+47,18-30,Europe,Student,Art/Culture,None,3,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,5.0,Quality,2.0,0.0,3.0,0.0,0.0,0.0,8.0,9.0,0.0,Yes,Free shipping,7.0
 49,31-50,South America,Worker,Sports,20k-39k,6,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,Phone,50€-100€,3.0,exclusiveness,0.0,0.0,0.0,7.0,7.0,8.0,5.0,3.0,7.0,No,,8.0
 51,31-50,Europe,Student,Tech/Gaming,20k-39k,7,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,50€-100€,10.0,security and possibility of return,0.0,0.0,0.0,8.0,0.0,0.0,5.0,4.0,7.0,Yes,Prime Video,8.0
-52,18-30,Europe,Student,Art/Culture,0,4,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,PC/Notebook,0-25€,0.0,sustainability,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,7.0,No,,7.0
+52,18-30,Europe,Student,Art/Culture,None,4,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,PC/Notebook,0-25€,0.0,sustainability,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,7.0,No,,7.0
 53,18-30,Europe,Student,Art/Culture,0-19k,7,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,PC/Notebook,0-25€,3.0,Price,1.0,0.0,4.0,6.0,2.0,2.0,0.0,5.0,6.0,No,,7.0
 54,18-30,Europe,Student,Sports,0-19k,5,By searching the product on a browser which redirects me to Amazon's website,Monthly,PC/Notebook,0-25€,8.0,Price,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,7.0,No,,8.0
-55,18-30,Europe,Student,Art/Culture,0,7,From social media platforms,Monthly,Phone,More than 200€,6.0,Delivery (if prime or not),0.0,0.0,7.0,7.0,1.0,2.0,1.0,8.0,8.0,Yes,Free shipping,8.0
+55,18-30,Europe,Student,Art/Culture,None,7,From social media platforms,Monthly,Phone,More than 200€,6.0,Delivery (if prime or not),0.0,0.0,7.0,7.0,1.0,2.0,1.0,8.0,8.0,Yes,Free shipping,8.0
 57,31-50,South America,Entrepreneur,Sports,40k-79k,7,Directly from the Amazon's platform (search tool),Hardly Ever,PC/Notebook,0-25€,2.0,Quality,0.0,0.0,3.0,10.0,5.0,5.0,0.0,10.0,10.0,No,,5.0
 58,18-30,Europe,Student,Art/Culture,0-19k,9,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,7.0,Price,2.0,0.0,4.0,9.0,4.0,8.0,7.0,10.0,10.0,Yes,Free shipping,9.0
 59,31-50,South America,Entrepreneur,Sports,40k-79k,8,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,4.0,Price,0.0,3.0,3.0,7.0,4.0,5.0,4.0,9.0,7.0,No,,7.0
 60,31-50,South America,Worker,Cooking,0-19k,8,Directly from the Amazon's platform (search tool),Monthly,Phone,0-25€,4.0,Discount,0.0,0.0,6.0,5.0,0.0,0.0,5.0,8.0,10.0,No,,8.0
 61,18-30,South America,Worker,Beauty/Fashion,20k-39k,0,From social media platforms,Hardly Ever,Phone,0-25€,3.0,Price,0.0,10.0,0.0,0.0,0.0,10.0,10.0,10.0,10.0,No,,7.0
-62,18-30,Europe,Student,Tech/Gaming,0,7,Directly from the Amazon's platform (search tool),Hardly Ever,Phone,0-25€,8.0,Quality,0.0,0.0,4.0,6.0,0.0,0.0,2.0,2.0,2.0,No,,9.0
+62,18-30,Europe,Student,Tech/Gaming,None,7,Directly from the Amazon's platform (search tool),Hardly Ever,Phone,0-25€,8.0,Quality,0.0,0.0,4.0,6.0,0.0,0.0,2.0,2.0,2.0,No,,9.0
 63,18-30,Europe,Student,Tech/Gaming,20k-39k,5,Directly from the Amazon's platform (search tool),Monthly,Tablet/iPad,50€-100€,4.0,Discount,4.0,4.0,5.0,5.0,5.0,5.0,3.0,2.0,7.0,No,,3.0
 64,18-30,South America,Worker,Tech/Gaming,0-19k,8,Directly from the Amazon's platform (search tool),Hardly Ever,PC/Notebook,25-50€,1.0,Quality,0.0,4.0,8.0,7.0,3.0,7.0,6.0,5.0,9.0,No,,7.0
 65,18-30,South America,Worker,Sports,0-19k,4,From social media platforms,Monthly,PC/Notebook,0-25€,3.0,Brand,0.0,10.0,5.0,10.0,5.0,2.0,5.0,5.0,5.0,Yes,because of the free shipping to chile when buying over 40usd.,8.0
@@ -78,28 +78,28 @@ Id,Age,Origin,Occupation,Hobbies,Yearly Income,Money Management,Product Discover
 88,18-30,North America,Worker,Beauty/Fashion,0-19k,5,From social media platforms,Daily,Phone,25-50€,7.0,Price,2.0,5.0,9.0,9.0,7.0,8.0,10.0,9.0,9.0,Yes,Prime Video,10.0
 89,18-30,Central America,Student,Art/Culture,0-19k,8,By searching the product on a browser which redirects me to Amazon's website,Monthly,Phone,0-25€,5.0,Brand,7.0,9.0,7.0,5.0,5.0,5.0,10.0,5.0,5.0,No,,9.0
 90,18-30,Central America,Worker,Cooking,0-19k,8,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,6.0,Price,0.0,1.0,10.0,6.0,0.0,0.0,8.0,10.0,10.0,Yes,Free shipping,9.0
-91,31-50,Europe,Student,Tech/Gaming,0,2,By searching the product on a browser which redirects me to Amazon's website,Daily,Phone,50€-100€,8.0,Quality,1.0,8.0,6.0,9.0,8.0,6.0,10.0,8.0,8.0,Yes,Discounts,9.0
+91,31-50,Europe,Student,Tech/Gaming,None,2,By searching the product on a browser which redirects me to Amazon's website,Daily,Phone,50€-100€,8.0,Quality,1.0,8.0,6.0,9.0,8.0,6.0,10.0,8.0,8.0,Yes,Discounts,9.0
 92,18-30,North America,Worker,Tech/Gaming,40k-79k,6,Directly from the Amazon's platform (search tool),Weekly,Phone,50€-100€,6.0,Price,0.0,2.0,5.0,5.0,6.0,4.0,8.0,3.0,6.0,Yes,Free shipping,9.0
 93,31-50,North America,Worker,Sports,40k-79k,6,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,50€-100€,5.0,Price,0.0,2.0,5.0,8.0,4.0,0.0,9.0,9.0,9.0,Yes,Discounts,9.0
 94,18-30,North America,Student,Sports,0-19k,7,Directly from the Amazon's platform (search tool),Monthly,Phone,25-50€,8.0,Price,0.0,0.0,8.0,10.0,0.0,8.0,8.0,10.0,9.0,No,,9.0
 95,Above 50,Central America,Worker,Sports,40k-79k,8,Directly from the Amazon's platform (search tool),Hardly Ever,PC/Notebook,50€-100€,4.0,Quality,8.0,4.0,6.0,8.0,8.0,6.0,6.0,8.0,8.0,No,,8.0
 96,18-30,Central America,Worker,Beauty/Fashion,20k-39k,4,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,7.0,Quality,8.0,7.0,6.0,6.0,7.0,7.0,4.0,4.0,4.0,No,,9.0
-97,18-30,Central America,Student,Sports,0,7,By searching the product on a browser which redirects me to Amazon's website,Weekly,Phone,25-50€,5.0,Price,0.0,8.0,9.0,9.0,8.0,10.0,3.0,10.0,6.0,Yes,Prime Video,10.0
+97,18-30,Central America,Student,Sports,None,7,By searching the product on a browser which redirects me to Amazon's website,Weekly,Phone,25-50€,5.0,Price,0.0,8.0,9.0,9.0,8.0,10.0,3.0,10.0,6.0,Yes,Prime Video,10.0
 98,31-50,North America,Student,Art/Culture,0-19k,7,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,5.0,"Reviews, price, quality ",0.0,4.0,4.0,6.0,3.0,2.0,1.0,4.0,5.0,No,,10.0
 99,18-30,North America,Worker,Art/Culture,0-19k,5,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,9.0,Quality,7.0,9.0,10.0,10.0,2.0,10.0,10.0,10.0,10.0,Yes,Free shipping,9.0
 100,18-30,North America,Entrepreneur,"Travel, social ",0-19k,9,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,PC/Notebook,0-25€,2.0,Price,1.0,5.0,5.0,7.0,0.0,5.0,0.0,8.0,7.0,No,,8.0
 101,18-30,North America,Unemployed,Sports,0-19k,3,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,2.0,Quality,2.0,3.0,5.0,5.0,2.0,7.0,7.0,9.0,7.0,No,,7.0
-102,18-30,Central America,Student,Art/Culture,0,8,Directly from the Amazon's platform (search tool),Monthly,Phone,25-50€,9.0,Price,0.0,0.0,6.0,7.0,4.0,8.0,9.0,8.0,9.0,No,,9.0
+102,18-30,Central America,Student,Art/Culture,None,8,Directly from the Amazon's platform (search tool),Monthly,Phone,25-50€,9.0,Price,0.0,0.0,6.0,7.0,4.0,8.0,9.0,8.0,9.0,No,,9.0
 103,31-50,South America,Worker,Tech/Gaming,20k-39k,5,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,5.0,Quality,2.0,4.0,3.0,10.0,6.0,7.0,2.0,5.0,8.0,No,,10.0
 104,31-50,North America,Worker,Beauty/Fashion,80k+,5,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,Phone,0-25€,3.0,Brand,5.0,5.0,5.0,5.0,8.0,5.0,8.0,5.0,5.0,Yes,Free shipping,8.0
 105,18-30,North America,Worker,Tech/Gaming,0-19k,9,From social media platforms,Monthly,PC/Notebook,25-50€,5.0,Quality,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,Yes,Free shipping,10.0
 106,18-30,Central America,Worker,Tech/Gaming,40k-79k,2,Directly from the Amazon's platform (search tool),Monthly,Phone,50€-100€,5.0,Discount,7.0,3.0,7.0,6.0,5.0,7.0,7.0,6.0,4.0,Yes,Discounts,7.0
 107,18-30,Central America,Worker,Sports,0-19k,4,From social media platforms,Monthly,Phone,0-25€,4.0,Price,0.0,2.0,6.0,4.0,10.0,5.0,3.0,6.0,5.0,No,,6.0
-108,18-30,Central America,Other,Art/Culture,0,4,From social media platforms,Monthly,Phone,0-25€,9.0,Quality,4.0,2.0,8.0,4.0,2.0,4.0,10.0,10.0,10.0,No,,9.0
+108,18-30,Central America,Other,Art/Culture,None,4,From social media platforms,Monthly,Phone,0-25€,9.0,Quality,4.0,2.0,8.0,4.0,2.0,4.0,10.0,10.0,10.0,No,,9.0
 109,18-30,Central America,Entrepreneur,Sports,0-19k,3,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,4.0,Price,2.0,4.0,8.0,8.0,6.0,9.0,9.0,9.0,9.0,Yes,Free shipping,10.0
 110,18-30,North America,Worker,Art/Culture,0-19k,5,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,7.0,Quality,0.0,2.0,10.0,9.0,0.0,0.0,9.0,0.0,10.0,Yes,Free shipping,10.0
 111,18-30,North America,Worker,Sports,20k-39k,1,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,1.0,Quality,0.0,10.0,10.0,10.0,0.0,3.0,7.0,10.0,10.0,Yes,Prime Video,7.0
-112,18-30,South America,Unemployed,Healthy,0,7,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,25-50€,5.0,Reviews ,2.0,9.0,9.0,10.0,3.0,3.0,3.0,8.0,10.0,No,,9.0
+112,18-30,South America,Unemployed,Healthy,None,7,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,25-50€,5.0,Reviews ,2.0,9.0,9.0,10.0,3.0,3.0,3.0,8.0,10.0,No,,9.0
 113,18-30,North America,Worker,Beauty/Fashion,20k-39k,8,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,0-25€,8.0,Quality,0.0,0.0,8.0,0.0,0.0,8.0,0.0,6.0,8.0,Yes,Free shipping,9.0
 114,31-50,South America,Worker,Art/Culture,40k-79k,1,Directly from the Amazon's platform (search tool),Hardly Ever,Phone,25-50€,3.0,Price,0.0,2.0,4.0,4.0,9.0,2.0,9.0,8.0,5.0,Yes,Prime Video,7.0
 115,31-50,North America,Worker,Finance ,20k-39k,9,Directly from the Amazon's platform (search tool),Monthly,PC/Notebook,0-25€,8.0,Price,1.0,9.0,9.0,9.0,9.0,1.0,10.0,10.0,9.0,Yes,Discounts,9.0
@@ -108,14 +108,14 @@ Id,Age,Origin,Occupation,Hobbies,Yearly Income,Money Management,Product Discover
 118,Above 50,Central America,Other,Beauty/Fashion,40k-79k,8,Directly from the Amazon's platform (search tool),Monthly,Phone,100-200€,8.0,Quality,5.0,5.0,10.0,10.0,10.0,10.0,10.0,10.0,6.0,Yes,Free shipping,10.0
 119,Above 50,North America,Worker,News,0-19k,9,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,7.0,Price,8.0,7.0,9.0,9.0,7.0,9.0,6.0,9.0,9.0,Yes,Prime Video,9.0
 120,31-50,South America,Entrepreneur,Art/Culture,0-19k,6,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,Phone,0-25€,4.0,Discount,0.0,2.0,7.0,1.0,1.0,7.0,7.0,7.0,3.0,No,,10.0
-121,Above 50,North America,Unemployed,Art/Culture,0,10,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,10.0,Price,0.0,10.0,10.0,10.0,10.0,0.0,0.0,10.0,10.0,No,,10.0
+121,Above 50,North America,Unemployed,Art/Culture,None,10,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,10.0,Price,0.0,10.0,10.0,10.0,10.0,0.0,0.0,10.0,10.0,No,,10.0
 125,Above 50,South America,Retired,Art/Culture,0-19k,5,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,0-25€,10.0,Quality,10.0,5.0,5.0,10.0,10.0,10.0,10.0,10.0,10.0,Yes,Prime Video,10.0
 126,18-30,Central America,Worker,Sports,40k-79k,10,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,2.0,Quality,0.0,3.0,8.0,9.0,6.0,1.0,8.0,8.0,9.0,Yes,Prime Video,7.0
 127,31-50,North America,Entrepreneur,Sports,20k-39k,4,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,3.0,Price,4.0,7.0,3.0,7.0,4.0,5.0,5.0,8.0,7.0,Yes,Prime Video,8.0
 128,18-30,Central America,Student,Art/Culture,0-19k,4,From social media platforms,Monthly,PC/Notebook,25-50€,3.0,Quality,6.0,5.0,9.0,8.0,6.0,5.0,7.0,9.0,10.0,Yes,Prime Video,7.0
 129,31-50,North America,Worker,Art/Culture,40k-79k,8,By searching the product on a browser which redirects me to Amazon's website,Monthly,Phone,0-25€,5.0,Quality,8.0,9.0,10.0,10.0,7.0,9.0,10.0,10.0,10.0,Yes,Free shipping,9.0
-130,31-50,South America,Entrepreneur,Nature,0,6,Directly from the Amazon's platform (search tool),Hardly Ever,PC/Notebook,0-25€,5.0,Discount,0.0,10.0,0.0,10.0,10.0,10.0,10.0,10.0,10.0,Yes,Prime Video,9.0
-131,18-30,North America,Student,Sports,0,8,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,qualsiasi altra cosa,0-25€,9.0,Price,5.0,5.0,9.0,9.0,9.0,5.0,5.0,9.0,9.0,No,,7.0
+130,31-50,South America,Entrepreneur,Nature,None,6,Directly from the Amazon's platform (search tool),Hardly Ever,PC/Notebook,0-25€,5.0,Discount,0.0,10.0,0.0,10.0,10.0,10.0,10.0,10.0,10.0,Yes,Prime Video,9.0
+131,18-30,North America,Student,Sports,None,8,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,qualsiasi altra cosa,0-25€,9.0,Price,5.0,5.0,9.0,9.0,9.0,5.0,5.0,9.0,9.0,No,,7.0
 132,18-30,North America,Worker,Beauty/Fashion,20k-39k,8,From social media platforms,Monthly,Phone,25-50€,6.0,Quality,1.0,5.0,9.0,1.0,1.0,1.0,7.0,7.0,1.0,Yes,Prime Video,8.0
 133,18-30,Central America,Worker,Beauty/Fashion,0-19k,5,Directly from the Amazon's platform (search tool),Weekly,Phone,0-25€,7.0,Price,0.0,1.0,3.0,1.0,4.0,6.0,7.0,6.0,10.0,Yes,Prime Video,10.0
 134,31-50,North America,Worker,Sports,40k-79k,6,From social media platforms,Weekly,Phone,0-25€,10.0,Price,0.0,1.0,4.0,3.0,4.0,0.0,4.0,2.0,2.0,Yes,Prime Video,8.0
@@ -128,7 +128,7 @@ Id,Age,Origin,Occupation,Hobbies,Yearly Income,Money Management,Product Discover
 142,18-30,South America,Worker,Sports,20k-39k,10,By searching the product on a browser which redirects me to Amazon's website,Hardly Ever,PC/Notebook,0-25€,8.0,Price,3.0,8.0,8.0,8.0,2.0,5.0,10.0,6.0,8.0,No,,10.0
 143,Above 50,North America,Worker,Art/Culture,0-19k,7,Directly from the Amazon's platform (search tool),Weekly,Phone,50€-100€,7.0,Brand,4.0,5.0,7.0,8.0,7.0,3.0,4.0,5.0,4.0,Yes,Prime Video,7.0
 144,Above 50,North America,Entrepreneur,Art/Culture,20k-39k,6,Directly from the Amazon's platform (search tool),Hardly Ever,Phone,50€-100€,4.0,Price,7.0,0.0,0.0,0.0,3.0,5.0,6.0,6.0,8.0,Yes,Free shipping,8.0
-145,18-30,South America,Student,Tech/Gaming,0,7,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,6.0,Brand,2.0,3.0,6.0,10.0,8.0,8.0,4.0,5.0,6.0,Yes,Gaming,9.0
+145,18-30,South America,Student,Tech/Gaming,None,7,Directly from the Amazon's platform (search tool),Weekly,PC/Notebook,25-50€,6.0,Brand,2.0,3.0,6.0,10.0,8.0,8.0,4.0,5.0,6.0,Yes,Gaming,9.0
 146,31-50,North America,Worker,Sports,0-19k,8,Directly from the Amazon's platform (search tool),Weekly,Phone,25-50€,7.0,Price,3.0,7.0,8.0,9.0,8.0,8.0,8.0,9.0,9.0,Yes,Discounts,9.0
 147,31-50,North America,Entrepreneur,Art/Culture,40k-79k,7,Directly from the Amazon's platform (search tool),Daily,Phone,50€-100€,6.0,Shipping date ,4.0,6.0,10.0,10.0,10.0,10.0,10.0,9.0,10.0,Yes,Free shipping,9.0
 148,Above 50,Central America,Other,Sports,20k-39k,5,100.0,Hardly Ever,Phone,0-25€,7.0,Price,1.0,7.0,5.0,8.0,5.0,7.0,5.0,5.0,5.0,No,,9.0
