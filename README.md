@@ -1,4 +1,4 @@
-# furio-codebase
+# statistics-codebase
 Statistics and Data Analysis project codebase
 
 STATS CHECKLIST
